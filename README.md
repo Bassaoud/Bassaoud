@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bassaoud
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in web development Java/Angular
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ethical projects
 - 📫 How to reach me: mohamed.bassaoud@yahoo.fr
 
